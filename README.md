@@ -1,2 +1,4 @@
 # hello-world
-Github - first steps
+GitHub - first steps
+
+I've heard that GitHub is a great thing so I give it a shot.
